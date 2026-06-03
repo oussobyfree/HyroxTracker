@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+dist/
+*.jks
+*.keystore
+.env
+.env.local
+*.tsbuildinfo
+next-env.d.ts
