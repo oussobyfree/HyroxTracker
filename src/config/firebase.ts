@@ -3,12 +3,12 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSy...HgGM",
-  authDomain: "babytracker-3ecd1.firebaseapp.com",
-  projectId: "babytracker-3ecd1",
-  storageBucket: "babytracker-3ecd1.firebasestorage.app",
-  messagingSenderId: "693419259270",
-  appId: "1:693419259270:android:cd0e2ca7bdb5186af16807"
+  apiKey: "AIzaSyCrA9-1PHPgl1LLNqNkFdLxaQFAYTk7Oyg",
+  authDomain: "hyroxtracker-57d3b.firebaseapp.com",
+  projectId: "hyroxtracker-57d3b",
+  storageBucket: "hyroxtracker-57d3b.firebasestorage.app",
+  messagingSenderId: "162556886490",
+  appId: "1:162556886490:android:852626177482d81a4214e3"
 };
 
 const app = initializeApp(firebaseConfig);
